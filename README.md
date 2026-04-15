@@ -11,6 +11,6 @@ This is a Python CLI project that manages students and courses.
 A student belongs to a course using course_id.
 
 ## How to run
-```bash
+On the terminal type;
 python3 main.py
 

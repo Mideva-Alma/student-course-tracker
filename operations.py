@@ -1,9 +1,6 @@
 from data import courses, students
 
-
-# -----------------------------
 # COURSE FUNCTIONS
-# -----------------------------
 
 def add_course():
     course_id = input("Enter course ID: ").strip()
@@ -62,10 +59,7 @@ def delete_course():
 
     print("Course not found.")
 
-
-# -----------------------------
 # STUDENT FUNCTIONS
-# -----------------------------
 
 def add_student():
     student_id = input("Enter student ID: ").strip()
